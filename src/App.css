@@ -1,0 +1,26 @@
+.head{
+  
+  height: 50px;
+
+}
+.span{
+  padding-left: 60px; ;
+}
+.search{
+  width: 300px;
+}
+.searchbar{
+  padding-top: 10px;
+  padding-left:   10px;
+}
+.icon{
+  padding-top: 10px;
+  
+}
+.cat{
+  padding-top: 30px;
+  height: 185px;
+}
+.logo{
+  padding-top: 10px;
+}
